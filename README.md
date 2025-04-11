@@ -18,11 +18,11 @@ This is a simple weather forecast application built with python programming that
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/Data-Epic/Adenike-Awotunde-weather-api.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [project directory]
+    cd Weaather_API_Integration
     ```
 3.  **Install dependencies:**
     ~~~
